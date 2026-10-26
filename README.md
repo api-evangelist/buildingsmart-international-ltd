@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-buildingSMART International Ltd. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.buildingsmart.com
+buildingSMART International Ltd. is a global organization that develops and maintains open standards for building information modeling (BIM). It brings together industry stakeholders to create interoperable data models, enabling efficient collaboration across the architecture, engineering, construction, and operation sectors. The organization provides specifications, guidelines, and tools to support the digital transformation of the built environment, fostering innovation and sustainability worldwide.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.buildingsmart.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/buildingsmart-international-ltd/](https://apis.io/providers/buildingsmart-international-ltd/).
